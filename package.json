@@ -1,0 +1,39 @@
+{
+  "name": "whatsapp-bot-down-anime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DwiRizqiH/whatsapp-bot-down-anime.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "whatsapp bot"
+  ],
+  "author": "DwiRizqiH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DwiRizqiH/whatsapp-bot-down-anime/issues"
+  },
+  "homepage": "https://github.com/DwiRizqiH/whatsapp-bot-down-anime#readme",
+  "dependencies": {
+    "@adiwajshing/baileys": "^github:adiwajshing/baileys",
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.11",
+    "form-data": "^4.0.0",
+    "image-thumbnail": "^1.0.15",
+    "mathjs": "^10.6.3",
+    "node-fetch": "^2.6.7",
+    "qrcode-terminal": "^0.12.0",
+    "url": "^0.11.0"
+  }
+}
